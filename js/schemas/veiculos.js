@@ -253,7 +253,7 @@ export const SCHEMA_VEICULOS = {
                         "gasolina",
 
                     label:
-                        "Gasolina"
+                        "GASOLINA"
                 },
 
                 {
@@ -261,7 +261,7 @@ export const SCHEMA_VEICULOS = {
                         "etanol",
 
                     label:
-                        "Etanol"
+                        "ETANOL"
                 },
 
                 {
@@ -269,7 +269,7 @@ export const SCHEMA_VEICULOS = {
                         "flex",
 
                     label:
-                        "Flex"
+                        "FLEX"
                 },
 
                 {
@@ -277,7 +277,7 @@ export const SCHEMA_VEICULOS = {
                         "diesel",
 
                     label:
-                        "Diesel"
+                        "DIESEL"
                 },
 
                 {
@@ -285,7 +285,7 @@ export const SCHEMA_VEICULOS = {
                         "eletrico",
 
                     label:
-                        "Elétrico"
+                        "ELÉTRICO"
                 }
 
             ]
@@ -341,7 +341,7 @@ export const SCHEMA_VEICULOS = {
                         "ativo",
 
                     label:
-                        "Ativo"
+                        "ATIVO"
                 },
 
                 {
@@ -349,7 +349,7 @@ export const SCHEMA_VEICULOS = {
                         "manutencao",
 
                     label:
-                        "Manutenção"
+                        "MANUTENÇÃO"
                 },
 
                 {
@@ -357,7 +357,7 @@ export const SCHEMA_VEICULOS = {
                         "inativo",
 
                     label:
-                        "Inativo"
+                        "INATIVO"
                 }
 
             ]
